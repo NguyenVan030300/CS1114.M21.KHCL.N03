@@ -23,5 +23,6 @@
 | Họ Và Tên          | MSSV          | Email                  | Image                    |
 | -------------------|:-------------:| ----------------------:| -------------------------|
 | Nguyễn Văn         | 18521632      | 18521632@gm.uit.edu.vn | ![f1](https://user-images.githubusercontent.com/100404612/162102508-c005ae87-c953-4fa4-9b19-8ac19a756ad3.png)
-| Trần Ngô Nam Dương | 19521413      | 19521413@gm.uit.edu.vn |
+| Trần Ngô Nam Dương | 19521413      | 19521413@gm.uit.edu.vn | ![277707590_890863678400716_7723110822473256917_n](https://user-images.githubusercontent.com/100404612/162105584-967e3cd8-0408-4409-aace-6c36b0ea444c.jpg)
+
 | Ngô Thành Phát     | 19521994      | 19521994@gm.uit.edu.vn | ![image](https://user-images.githubusercontent.com/87167534/162103962-1289c4b3-55c2-42b2-ad33-a07f567c5bb9.png)
