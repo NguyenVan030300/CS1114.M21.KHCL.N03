@@ -10,7 +10,7 @@
 **giới thiệu môn học:**
 ---
 - **Tên môn học:** Machine Learning
-- **Lớp:**         CS1114.M21.KHCL
+- **Lớp:**         CS114.M21.KHCL
 - **Năm học:**     2021-2022
 ---
 **Giảng Viên Hướng Dẫn**
